@@ -29,7 +29,7 @@ void printCurrentStates() {
             printf("C ugaseno\n");
     
         printf("---------------\n");
-        sleep_for(seconds(1));
+        sleep_for(seconds(5));
     }
 }
 
